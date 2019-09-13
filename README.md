@@ -1,2 +1,5 @@
-# Machine-Learning-Basic
-This Depository contains some basic ML projects.
+# Machine-Learning-Basic-Algorithm
+
+This Depository contains some basic ML algorithm.
+
+
