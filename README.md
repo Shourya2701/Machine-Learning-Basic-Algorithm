@@ -1,2 +1,2 @@
-# Machine-Learning-Basic-Projects-for-Beginner
+# Machine-Learning-Basic-Projects
 This Depository contains some basic ML projects.
